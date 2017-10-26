@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24323" started-at="2017-10-25T18:33:46Z" finished-at="2017-10-25T18:34:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24323" started-at="2017-10-25T18:33:46Z" finished-at="2017-10-25T18:34:10Z">
+      <class name="org.zynga.com.zyngaproject.Zyngaclass">
+        <test-method status="PASS" signature="browser()[pri:0, instance:org.zynga.com.zyngaproject.Zyngaclass@523884b2]" name="browser" is-config="true" duration-ms="9218" started-at="2017-10-26T00:03:46Z" finished-at="2017-10-26T00:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="dropdown()[pri:0, instance:org.zynga.com.zyngaproject.Zyngaclass@523884b2]" name="dropdown" duration-ms="15094" started-at="2017-10-26T00:03:55Z" finished-at="2017-10-26T00:04:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+      </class> <!-- org.zynga.com.zyngaproject.Zyngaclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
